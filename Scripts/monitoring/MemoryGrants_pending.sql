@@ -70,5 +70,5 @@ SELECT @AlertSubject = N'Alert: Memory Grants Pending выше 0, сводка по процесса
 	--	 @profile_name = 'MAIL',
 	--	 @body = @Mailbody,
 	--	 @body_format = 'HTML',
-	--	 @recipients = 'khakimovav@polyus.com',
+	--	 @recipients = 'email',
 	--	 @subject = @AlertSubject;

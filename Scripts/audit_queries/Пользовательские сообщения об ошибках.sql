@@ -1,0 +1,6 @@
+
+
+USE MASTER
+SELECT TOP 100 * 
+FROM   sysmessages
+WHERE  ERROR > 50000

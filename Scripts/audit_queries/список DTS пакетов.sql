@@ -1,0 +1,1 @@
+exec msdb..sp_enum_dtspackages

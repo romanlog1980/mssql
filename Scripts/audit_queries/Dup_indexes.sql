@@ -1,8 +1,3 @@
-/************************************************************
- * Code formatted by SoftTree SQL Assistant © v6.5.278
- * Time: 2017-12-28 3:05:26 PM
- ************************************************************/
-
 ;
 WITH IndexColumns AS(
          SELECT DISTINCT SCHEMA_NAME(o.schema_id) AS 'SchemaName',
